@@ -3,7 +3,7 @@
 
 <p align="center">SHell is an <b>simple, lightweight</b> Linux shell program written by <a href="https://jsl1114.github.io"><i>Jason</i></a>.</p>
 
-<p align="center"><b><i>Please not that you should run it in an Linux enviroment.</i></b></p>
+<p align="center"><b><i>Please note that you should run it in an Linux enviroment.</i></b></p>
 </p>
 
 ## Features
@@ -22,16 +22,16 @@
 
 ## Some possible use cases
 ### I/O Redirection
--`cat shell.c | grep main | less`
--`cat < input.txt`
--`cat > output.txt`
--`cat >> output.txt`
--`cat < input.txt > output.txt`
--`cat < input.txt >> output.txt`
--`cat > output.txt < input.txt`
--`cat >> output.txt < input.txt`
--`cat < input.txt | cat > output.txt`
--`cat < input.txt | cat | cat >> output.txt`
+- `cat shell.c | grep main | less`
+- `cat < input.txt`
+- `cat > output.txt`
+- `cat >> output.txt`
+- `cat < input.txt > output.txt`
+- `cat < input.txt >> output.txt`
+- `cat > output.txt < input.txt`
+- `cat >> output.txt < input.txt`
+- `cat < input.txt | cat > output.txt`
+- `cat < input.txt | cat | cat >> output.txt`
 
 ### Built-in Commands
 - `cd <dir>`

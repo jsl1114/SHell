@@ -2,9 +2,10 @@
 <h1 align="center">SHell</h1>
 
 <p align="center">SHell is an <b>simple, lightweight</b> Linux shell program written by <a href="https://jsl1114.github.io"><i>Jason</i></a>.</p>
-
-<p align="center"><b><i>Please note that you should run it in an Linux enviroment.</i></b></p>
 </p>
+
+> [!IMPORTANT]
+> Please note that you should run it in a Linux enviroment.
 
 ## Features
 - Program locaiton in the form of `[SHell <cwd>]:`
